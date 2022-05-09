@@ -1,6 +1,6 @@
-Hi, I’m @AbdelrahmanRagheb
-I’m interested in mobile application dev
-reach me on whatsapp 01069382735
+Hi, I’m @AbdelrahmanRagheb.
+I’m interested in mobile application dev.
+reach me on whatsapp 01069382735.
 
 
 <!---
