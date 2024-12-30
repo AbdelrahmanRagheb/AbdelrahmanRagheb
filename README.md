@@ -1,5 +1,5 @@
 Hi, I’m @AbdelrahmanRagheb 👋
-I’m a Backend Developer specializing in Spring Boot and Java.
+I’m a Backend Developer specializing in Spring and Java.
 
 👨‍💻 What I Do
 Build scalable and efficient backend systems.
